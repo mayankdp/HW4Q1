@@ -7,3 +7,8 @@ Question: You may use C++, Java, or any object-based programming language for th
 - They input a reversal number M 
 - The program should output a reversal of only the first M numbers, which will no longer be needed and can be removed 
 - Allow repetition of the steps above 
+
+## Run the code to test
+
+### `g++ -o main main.cpp`
+### `./main`
